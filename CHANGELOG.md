@@ -1,17 +1,18 @@
 # Change Log
 
-## [v2.4.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.4.0) (2019-02-23)
+## [v2.4.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.4.0) (2019-03-05)
 [Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.4.0...v2.4.0)
 
 **Closed issues:**
 
-- Tag v2.4.0 release [\#85](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/85)
+- Tag v2.4.0 release [\#88](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/88)
 
 ## [v2.4.0](https://github.com/nubisproject/nubis-terraform-cloudhealth/tree/v2.4.0) (2019-02-23)
 [Full Changelog](https://github.com/nubisproject/nubis-terraform-cloudhealth/compare/v2.3.1...v2.4.0)
 
 **Closed issues:**
 
+- Tag v2.4.0 release [\#85](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/85)
 - Tag v2.4.0 release [\#82](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/82)
 - Tag v2.4.0 release [\#79](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/79)
 - Tag v2.4.0 release [\#76](https://github.com/nubisproject/nubis-terraform-cloudhealth/issues/76)
@@ -21,6 +22,8 @@
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#90](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/90) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#89](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/89) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#87](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/87) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#86](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/86) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#84](https://github.com/nubisproject/nubis-terraform-cloudhealth/pull/84) ([nubis-automation](https://github.com/nubis-automation))
